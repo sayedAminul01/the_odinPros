@@ -1,2 +1,3 @@
 # the_odinPros
-this is my theOdinProjects
+this is my theOdinProjectsRepo
+Hello Odin
